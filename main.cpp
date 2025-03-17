@@ -2,7 +2,7 @@
 using namespace std;
 void test()
 {
-
+    cout<<"nishishui"<<endl;
 }
 int main()
 {
